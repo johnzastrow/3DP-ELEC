@@ -16,3 +16,4 @@ One thing is that while the temp sensor has a small screw hole for mounting, the
 
 A few example cases from one of the tutorials: https://peyanski.com/diy-temperature-sensor-for-home-assistant/#3D_Printed_enclosurebox
 
+[the components](https://github.com/johnzastrow/3DP-ELEC/blob/main/img/large_preview.jpg?raw=true)
